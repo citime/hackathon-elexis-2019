@@ -1,0 +1,10 @@
+/* customize colors*/
+$turquoiseblue: #29969b;
+$yellowish: #FFC142;
+$brightred: #FF4742;
+
+$primary: $turquoiseblue;
+$secondary: $brightred;
+$info: $yellowish;
+
+@import "bootstrap-4.3.1/scss/bootstrap";
