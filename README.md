@@ -39,4 +39,4 @@ An internet connection is needed to fetch libraries per content delivery network
 
 ### Additional information
 
-For customizing the appearance, Sass was used. The *.scss* file is included in this respository.
+For customizing the appearance, Sass was used. The *.scss* file is included in this repository.
