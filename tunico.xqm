@@ -77,7 +77,7 @@ declare
           <p class="mb-0">getting access to {count($entries)} lexical entries</p>
         </blockquote>
         <div class="row mt-2">
-          <div class="col-3">
+          <div class="col-lg-4 col-sm-12">
             <p class="font-weight-bold">Choose the position of the consonant:</p>
           </div>
           <div id="positionletter" class="col-lg-6 col-sm-12">
@@ -87,7 +87,7 @@ declare
           </div>
         </div>
         <div class="row mt-2"> 
-          <div class="col-3">
+          <div class="col-lg-4 col-sm-12">
             <p class="font-weight-bold">Choose a consonant:</p>
           </div>
           <div id="group" class="col-lg-6 col-sm-12">
@@ -170,7 +170,7 @@ declare
         <p>After clicking a radical position, a radical consonant can be chosen. As a result,
         a list of possible roots is displayed. Click on a root to get the visualization.
         It shows all relatives of the clicked root. Further information is shown
-        when clicking on a specific word form. OmegaWiki and lexvo.org are used as external sources to
+        when clicking on a specific word form. OmegaWiki and lexvo.org are used as external resources to
         provide definitions and translations. A link to the main TuniCo project and to the
         Wiktionary entry is provided.</p>
         <p></p>
